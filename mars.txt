@@ -1,1 +1,3 @@
 This is a promising new planet to try out.
+
+But it doesn't have enough oxygen for blood to be red.
